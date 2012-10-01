@@ -1,0 +1,1 @@
+-L"D:/bada1.2.1/Model/Wave_LP1/Simulator" -L"D:/bada1.2.1/Lib" -L"C:/Users/Administrator/worksapce_bada1.2.1/PinTu/lib" -shared -o"PinTu.exe"

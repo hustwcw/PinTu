@@ -1,0 +1,1 @@
+-nostdlib -lc-newlib -lm-newlib -L"D:/bada1.2.0/Model/Wave_LP2/Target" -L"D:/bada1.2.0/Tools/Toolchains/ARM/arm-samsung-nucleuseabi/lib" -L"D:/bada1.2.0/Tools/Toolchains/ARM/lib/gcc/arm-samsung-nucleuseabi/4.4.1" -L"C:/Users/Administrator/worksapce_bada1.2/PinTu/lib" -shared -o"PinTu.exe"
